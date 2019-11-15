@@ -1,0 +1,2 @@
+For Java please put text file in src folder and if you put at another place please change the line in java accordingly.
+To run Erlang file please compile all three files first. 
